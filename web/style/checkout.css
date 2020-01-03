@@ -1,0 +1,24 @@
+.add{
+    width: 36px;
+    height: 36px;
+    background-image: url(../images/add.png);
+    background-repeat: no-repeat;
+    font-size: 2rem;
+    border: 0 solid black;
+}
+.remove{
+    width: 36px;
+    height: 36px;
+    background-image: url(../images/remove.png);
+    background-repeat: no-repeat;
+    font-size: 2rem;
+    border: 0 solid black;
+}
+.del{
+    width: 36px;
+    height: 36px;
+    background-image: url(../images/delete.png);
+    background-repeat: no-repeat;
+    font-size: 2rem;
+    border: 0 solid black;
+}

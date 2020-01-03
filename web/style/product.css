@@ -1,0 +1,26 @@
+#detail{
+    width: 90%;
+    margin: auto;
+    height: 90%;
+    border: 1px solid black;
+}
+
+td{
+    width: 50%;
+    align-content: center;
+}
+
+.imgProduct{
+    width: 50%;
+    height: 50%;
+}
+
+input[type="submit"] {
+    width: 36px;
+    height: 36px;
+    background-image: url(../images/add_shopping.png);
+    background-repeat: no-repeat;
+    font-size: 2rem;
+    border: 0 solid black;
+}
+
